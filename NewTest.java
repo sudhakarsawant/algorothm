@@ -12,11 +12,11 @@ import org.testng.annotations.AfterSuite;
 
 public class NewTest {
   @Test
-  public void f() {
+  public void fhhuh() {
 	  System.out.println("1 test");
   }
   @Test
-  public void g() {
+  public void gkmkmkm() {
 	  System.out.println("2 test");
   }
   @BeforeMethod
